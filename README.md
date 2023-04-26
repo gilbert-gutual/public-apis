@@ -70,7 +70,7 @@
                 <p><strong>The fastest way to integrate APIs into any product</strong></p>
             </div>
             <div>
-                <sup>Explore, discover and consume public APIs as simpler programmable building blocks all on one platform for a 10x developer experience.</sup>
+                <sup>Explore, discover and consume public APIs as simpler programmable building blocks all on one platform for a 10x developer experience</sup>
             </div>
         </a>
         <a href="https://apilayer.com#gh-dark-mode-only">
